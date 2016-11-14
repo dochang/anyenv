@@ -6,6 +6,7 @@ install_plugin "rbenv-bundle-exec" "https://github.com/maljub01/rbenv-bundle-exe
 install_plugin "rbenv-bundler-ruby-version" "https://github.com/aripollak/rbenv-bundler-ruby-version.git" "master"
 install_plugin "rbenv-ccache" "https://github.com/yyuu/rbenv-ccache.git" "master"
 install_plugin "rbenv-chefdk" "https://github.com/docwhat/rbenv-chefdk.git" "master"
+install_plugin "rbenv-china-mirror" "https://github.com/AndorChen/rbenv-china-mirror.git" "master"
 install_plugin "rbenv-clean" "https://github.com/sableloki/rbenv-clean.git" "master"
 install_plugin "rbenv-communal-gems" "https://github.com/tpope/rbenv-communal-gems.git" "master"
 install_plugin "rbenv-ctags" "https://github.com/tpope/rbenv-ctags.git" "master"
