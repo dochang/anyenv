@@ -27,6 +27,7 @@ install_plugin "rbenv-only" "https://github.com/Rodreegez/rbenv-only.git" "maste
 install_plugin "rbenv-path" "https://github.com/taqtiqa/rbenv-path.git" "master"
 install_plugin "rbenv-plug" "https://github.com/znz/rbenv-plug.git" "master"
 install_plugin "rbenv-plugin" "https://github.com/taqtiqa/rbenv-plugin.git" "master"
+install_plugin "rbenv-pluger" "https://github.com/cao7113/rbenv-pluger.git" "master"
 install_plugin "rbenv-rails" "https://github.com/alfa-jpn/rbenv-rails.git" "master"
 install_plugin "rbenv-sentience" "https://github.com/tpope/rbenv-sentience.git" "master"
 install_plugin "rbenv-sudo" "https://github.com/dcarley/rbenv-sudo.git" "master"
